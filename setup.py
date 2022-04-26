@@ -13,7 +13,7 @@ except ImportError:
 
 setup(
     name='Flask-JSGlue2',
-    version='0.3.2',
+    version='0.3.3',
     url='http://stewartpark.github.com/Flask-JSGlue',
     license='BSD',
     author='Stewart Park',
